@@ -4,7 +4,7 @@
 
  Hi, I'm Luis, I'm currently a student at a technology program in software analysis and development. 📗
 
-- :books: I am currently learning javascript and php with the laravel framework.
+- :books: I am currently learning php with the laravel framework.
   
 technology's.
 
